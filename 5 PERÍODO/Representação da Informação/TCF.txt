@@ -1,0 +1,102 @@
+==================================================================================================================================================================================================
+PERSONALIDADE
+    AGENTES BIOLÓGICOS – Animais que causam danos às ferrovias, suas instalações ou suas partes.                                                                                            -   P
+        BROCA - Inseto que ataca a madeira ou ainda furo deixado pelo inseto no dormente.                                                                                                   -   P
+
+    TRABALHADOR FERROVIÁRIO – Trabalhador (pode ser funcionário ou colaborador) que realiza alguma atividade relacionada ao setor ferroviário.                                              -   P
+        APONTADOR - É o colaborador encarregado das anotações de campo relativas ao registro das horas trabalhadas, produção do pessoal em serviço e material aplicado.                     -   P
+        CABINEIRO - O funcionário que executa as operações de acionamento de chaves e sinais em uma cabine.                                                                                 -   P
+        CONTROLADOR - O funcionário encarregado do comando do movimento de trens em trecho com Controle de Tráfego Centralizado (CTC), dotado ou não de controle de velocidade.             -   P
+        RONDANTE - Trabalhador que executa a ronda nas estações de trem.                                                                                                                    -   P
+
+    VIA FÉRREA - Duas ou mais fiadas de trilhos assentados e fixadas paralelamente sobre dormentes, de acordo com as bitolas, constituindo a superfície de rolamento.                       -   P
+        BITOLA MISTA - Via férrea com três ou mais trilhos, para permitir a passagem de veículos com bitolas diferentes.                                                                    -   P
+        DESVIO - Via férrea com dois trilhos adjacente à linha principal, ou a outro desvio, destinada aos cruzamentos, ultrapassagens e formação de trens.                                 -   P
+            DESVIO ATIVO - Desvio provido de chaves de mudança de via em ambas as extremidades.                                                                                             -   P
+            DESVIO DE CRUZAMENTO - Desvio que se destina a permitir o cruzamento de trens que circulem numa mesma via férrea principal.                                                     -   P
+            DESVIO DE MANUTENÇÃO – Desvio que se destina a permitir o trajeto de trens para fins de manutenção.                                                                             -   P
+            DESVIO MORTO - Desvio que é provido de uma única chave de mudança de via.                                                                                                       -   P
+            DESVIO PARTICULAR - Desvio concedido a uma empresa industrial ou comercial.                                                                                                     -   P
+            DESVIO PÚBLICO - Desvio concedido a uma empresa pública.                                                                                                                        -   P
+
+    OBRA DE ARTE - qualquer obra (construção pronta construção pronta que não via férrea) ou instalação fixa de uma ferrovia, tais como: bueiros, pontilhões, pontes, viadutos, passagens superiores    e inferiores, túneis, galerias, muros de arrimo, revestimento, etc.  Antigamente, por serem construídas empiricamente por artistas dotados de muito bom senso e intuição de estática, essas obras  eram consideradas trabalhos de arte.                                                                                                                             -   P
+        PASSARELA – Passagem superior de uma ferrovia destinada a pedestres, podendo servir a animais e pequenos veículos.                                                                  -   P
+        PONTE - "Obra de arte" que tem por fim permitir a construção da linha sobre cursos d`água, braços de mar, etc.                                                                      -   P
+
+    TREM - Qualquer veículo automotriz ferroviário, uma locomotiva ou várias locomotivas acopladas, com ou sem vagões e ou carros de passageiros, em condições normais de circulação.       -   P
+        PLATAFORMA (Veículo) – Veículo ferroviário automotriz cujas peças principais são: estrado, rodeiros ou truques, caixas de graxa, molas, engates, para-choque e caixa (ou caixas).   -   P
+        BAGAGEIRO - Trem especialmente formado para o transporte de encomendas e cargas em pequenas expedições, levando ainda 1 ou 2 carros de passageiros.                                 -   P
+        TRANSPORTE DE BAGAGENS - É uma variante do transporte de "Encomendas". Nesta modalidade compreende-se o transporte do excedente daquilo que é permitido ao viajante levar em seu poder no próprio carro de passageiros.                                                                                                                                                       -   P
+==================================================================================================================================================================================================
+MATÉRIA
+    INSTRUMENTO – Ferramenta, máquina ou equipamento utilizado na realização de alguma tarefa.                                                                                              -   M
+        APONTADOR DE PONTEIRO – Instrumento de medição analógico, dotado de um ponteiro que mostra o valor do objeto medido.                                                                -   M
+        BROCA CHATA PARA TRILHOS - Ferramenta especial empregada na furação do trilho.                                                                                                      -   M
+        BURRO - Guindaste autopropulsado, com rodeiros ferroviários.                                                                                                                        -   M
+        CONTROLADOR DE MOVIMENTAÇÃO DE TREM [CMT] - Equipamento que gerencia toda a movimentação de trens em uma determinada região.                                                        -   M
+        FIXAÇÃO - Instrumento para fixar os trilhos impedindo e/ou reduzindo o caminhamento dos mesmos.                                                                                     -   M
+        FIXAÇÃO RETENSORA – Instrumento para fixação de trilho capaz de impedir o caminhamento das fiadas de trilhos.                                                                       -   M
+        FURADEIRA - Equipamento que fura dormentes ou trilhos.                                                                                                                              -   M
+            FURADEIRA AUTO-MOTORA - Furadeira deslocável que dispõe de meios próprios para seu deslocamento ao longo da via.                                                                -   M
+            FURADEIRA MÓVEL - Furadeira que é deslocável ao longo da via.                                                                                                                   -   M
+        TEMPORIZADOR - Instrumento capaz de medir o tempo, sendo um tipo de relógio especializado. Ele pode ser usado para controlar a sequência de um evento ou processo.                  -   M
+
+    PEÇA – Parte de ferramenta, máquina ou equipamento utilizado na realização de alguma tarefa, ou parte que integra alguma estrutura com alguma função específica.                        -   M
+        ALMA – Peça que faz parte do trilho, compreendida entre o boleto e o patim.                                                                                                         -   M
+        ARRUELA - Peça colocada no parafuso para dar maior aderência da porca, evitando o seu desgaste.                                                                                     -   M
+            ARRUELA DE PRESSÃO - Arruela que comprime a porca por pressão elástica em um equipamento.                                                                                       -   M
+            ARRUELA ISOLANTE – Arruela que permite isolamento elétrico em um equipamento.                                                                                                   -   M
+        BARRA DE BITOLA - Peça com a qual se marca ou controla a bitola da via, inclusive, às vezes, a gola do contratrilho.                                                                -   M
+        JACARÉ - Peça do AMV que permite às rodas dos veículos, movendo-se em uma via, passar para os trilhos de outra.                                                                     -   M
+        MANTENEDOR DE VIA – Peça metálica com ou sem isolamento elétrico, com garras nas extremidades ajustáveis sob pressão ao patim do trilho.                                            -   M
+
+    QUALIDADE DE ITEM FERROVIÁRIO – Aspecto, medida ou qualidade que denote algum aspecto intrínseco a um equipamento, peça ou obra-de-arte ferroviário.                                    -   M
+        ADERÊNCIA – Qualidade de resistência da roda que se opõe ao escorregamento. É o atrito entre a roda e o trilho que impede a patinação das rodas motoras e permite o deslocamento do trem.                                                                                                                                                                               -   M
+        ALTURA DE CORTE – Diferença (medida em centímetros) de cota entre um ponto do eixo da plataforma e o solo natural.                                                                  -   M
+        BARRA DE TRILHO - É o tamanho em que os trilhos são fornecidos. Normalmente em comprimento de 12; 18; e 24 metros.                                                                  -   M
+        BITOLA - É a distância entre as faces internas dos boletos dos trilhos, tomada na linha normal a essas faces, 16 mm abaixo do plano constituído pela superfície superior do boleto. -   M
+            BITOLA ESTREITA – Bitola inferior a 1,435m.                                                                                                                                     -   M
+            BITOLA LARGA - Bitola superior a 1,435 m. No Brasil, é a bitola de 1,600 m.                                                                                                     -   M
+            BITOLA MÉTRICA - Bitola igual a 1,000 m.                                                                                                                                        -   M
+        CAPACIDADE DO VAGÃO - Quantidade calculada segundo as características de fabricação do vagão, como sendo o limite de carga do veículo.                                              -   M
+        PESO DO TRILHO - Peso, em quilograma, de um metro de trilho (kg/m).                                                                                                                 -   M
+        TEMPO PREDETERMINADO DE MOVIMENTO – Conjunto de procedimentos e técnicas usadas no estudo e avaliação de elementos de trabalho manual. Utilizado para se estabelecer a categoria e fazer a análise de todos os movimentos cujos tempos são computados de acordo com fatores como extensão, grau de controle muscular do trabalhador e precisão do trabalho.                  -   M
+==================================================================================================================================================================================================
+ENERGIA
+    OPERAÇÃO DE CARGA E DESCARGA – Qualquer ação nos trens e suas partes que esteja relacionada com carga e descarga.                                                                        -   E
+        PLATAFORMA ELEVATÓRIA - Içamento aplicado na parte traseira ou às vezes na lateral do compartimento de carga, servindo para baixar a carga ao solo ou elevá-la ao nível do assoalho. -   E
+        TRÁFEGO - Trabalho realizado para transportar passageiros, coisas e animais, exercício ou operação do transporte.                                                                    -   E
+        OPERAÇÃO DE MANUTENÇÃO DE VIA – qualquer atividade que visa efetuar reparos, limpeza ou conservação da via férrea ou suas partes.                                                    -   E
+        CAPINA - Ato de destruir a vegetação na plataforma da via férrea para limpá-la.                                                                                                      -   E
+            CAPINA MANUAL - Capina que se executa com equipamentos manuais.                                                                                                                  -   E
+            CAPINA MECÂNICA - Capina que se executa com equipamentos mecânicos.                                                                                                              -   E
+            CAPINA NATURAL - Capina que se executa sem produtos químicos.                                                                                                                    -   E
+            CAPINA QUÍMICA - Capina que se executa com produtos químicos.                                                                                                                    -   E
+        CONSOLIDAÇÃO DA FIXAÇÃO – Operação que consiste em reapertar ou rebater as peças de fixação dos trilhos, manual ou mecanicamente.                                                    -   E
+        DESEMPENAMENTO DO TRILHO - Ato de retirar as deformações de trilho provocados por momentos tensores e/ou fletores.                                                                   -   E
+            FIXAÇÃO DE VIA – Operação de reparo da posição, em planta, da superfície de rolamento da via, mediante ancoragem do dormente no lastro.                                          -   E
+                ARREDONDAMENTO DE CURVA - É a colocação ou reparo das fiadas de trilhos em suas devidas posições nas curvas, por puxamentos laterais.                                        -   E
+                RETIFICAÇÃO DE TRILHO - Operação mecânica destinada a tornar o mais retilíneo possível o eixo longitudinal do trilho.                                                        -   E
+        ROÇADA (roçagem) – Derrubada da vegetação na faixa da estrada, fora da plataforma, para limpá-la.                                                                                    -   E
+        OPERAÇÃO DE MONITORAMENTO – Qualquer ação usada para avaliação de trabalho manual ou para verificação de ocorrências diversas, estas últimas no âmbito das vias férreas.             -   E
+        RONDA - Serviço da via permanente, para verificação de ocorrências que ponham em risco a circulação dos trens.                                                                       -   E
+==================================================================================================================================================================================================
+ESPAÇO
+    ESPAÇO FÍSICO – Área física de um terreno ou local construído pelo ser humano.                                                                                                          -   S
+        ESTAÇÃO - Instalação fixa onde param os trens.                                                                                                                                      -   S
+            ESTAÇÃO MESTRA – Estação que gerencia os equipamentos de controle, sinalização e tráfego.                                                                                       -   S
+            ESTAÇÃO TERMINAL - A estação mencionada por último na tabela de qualquer trem.                                                                                                  -   S
+        PÁTIO - Grande área de terreno, mais ou menos nivelada. Áreas externas em torno das estações, oficinas, depósitos etc., onde se colocam desvios.                                    -   S
+        PLATAFORMA – Abrigo construído na estação, ao longo da linha principal, para embarque e desembarque de passageiros e serviço de bagagem e encomendas.                               -   S
+
+    ESPAÇO NATURAL – Espaço da natureza ou relevo.                                                                                                                                          -   S
+        BACIA - É o nome genérico dado ao conjunto de vales de um rio e de seus afluentes.                                                                                                  -   S
+        CABECEIRA - Pequeno vale úmido, geralmente pouco pronunciado, onde existe nascente de curso d`água.                                                                                 -   S
+        CONTRAFORTE - Montanha que parte da cordilheira, quase normalmente à sua direção.                                                                                                   -   S
+==================================================================================================================================================================================================
+TEMPO
+    MEDIDA TEMPORAL – Tempo decorrido associado direta ou indiretamente a alguma atividade ferroviária.                                                                                     -   T
+        TAKT TIME - Tempo decorrido entre a conclusão de unidades sucessivas de um produto final, visando o atendimento de determinada demanda.                                             -   T
+        TEMPO DE ATRAVESSAMENTO - Tempo decorrido a partir do momento em que uma matéria-prima chega na empresa e o momento em que esta matéria-prima chega no armazém incorporada em um produto acabado.                                                                                                                                                                            -   T
+        TEMPO DE PARADA (DOWN TIME) – Tempo em que um equipamento não está disponível para uso em uma atividade.                                                                            -   T
+==================================================================================================================================================================================================
